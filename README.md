@@ -11,4 +11,4 @@ Please, share you ideas
 - Text Classification
 - Semantics and Sentiment Analysis
 - Deep Learning for NLP
-- Handling Stopwords from Four Python Packages (Spacy, NLTK, Wordcloud, Gensim)
+- Handling Stopwords from Four Python Packages (`Spacy`, `NLTK`, `Wordcloud`, `Gensim`)
